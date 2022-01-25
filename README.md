@@ -35,4 +35,8 @@ The school board has notified Maria and her supervisor that the students_complet
        ![Screen Shot 2022-01-24 at 7 04 59 PM](https://user-images.githubusercontent.com/95242493/150897255-2f1bde93-f853-4c0e-b610-2aea74787996.png)
  ## Summary
  Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+ 1. For district, Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
+ 2. For school, math and reading passing percentage got higher.
+ 3. The overall passing rate dramatically from 91% to 65% for Thomas High School changed 
+ 4. Data at the grade level is showing as "NaN" in reports for the 9th grade students at Thomas High School now.
  
