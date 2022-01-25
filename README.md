@@ -33,4 +33,6 @@ The school board has notified Maria and her supervisor that the students_complet
     - **Scores by school type**
  
        ![Screen Shot 2022-01-24 at 7 04 59 PM](https://user-images.githubusercontent.com/95242493/150897255-2f1bde93-f853-4c0e-b610-2aea74787996.png)
+ ## Summary
+ Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
  
